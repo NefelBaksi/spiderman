@@ -1,6 +1,6 @@
 # Spiderman Website 🕷️
 
-In dieser Datei wurde eine Bau-Website mit HTML,CSS und JavaScript Technologien verwendet 
+In dieser Datei wurde eine Website mit HTML,CSS und JavaScript Technologien entworfen
 
 # 📌 Wichtige Funktionen
 
